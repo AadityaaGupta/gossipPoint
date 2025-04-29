@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "22605399184",
+    "project_id": "chatit-653b7",
+    "storage_bucket": "chatit-653b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22605399184:android:1848aeda02fcc0bbcec415",
+        "android_client_info": {
+          "package_name": "com.example.chatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22605399184-crhp3ddsocqr1ttfag5eprsv284a0usq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatit",
+            "certificate_hash": "40757d9c15e9089f1e719aef0da0af78dc5184f0"
+          }
+        },
+        {
+          "client_id": "22605399184-kj78pq8ui6kqs27ura394268106cifa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmi7PUhUg2WTcQep6folNLtyWkkRfXAuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22605399184-kj78pq8ui6kqs27ura394268106cifa3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
